@@ -1,1 +1,3 @@
-<embed src=\"von_Gortler_git_Resume.pdf\" width=\"500\" height=\"400\">
+<a href="von_Gortler_git_Resume.pdf">
+My Resume
+</a>
